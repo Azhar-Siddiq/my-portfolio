@@ -1,7 +1,7 @@
-import facebook from "../assets/facebook.png";
-import instagram from "../assets/instagram.png";
-import dribble from "../assets/dribbble.png";
-import email from "../assets/sms.png";
+import facebook from "../../public/assets/facebook.png";
+import instagram from "../../public/assets/instagram.png";
+import dribble from "../../public/assets/dribbble.png";
+import email from "../../public/assets/sms.png";
 
 const Contact = () => {
     return (

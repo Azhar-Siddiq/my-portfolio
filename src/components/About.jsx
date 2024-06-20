@@ -12,19 +12,19 @@ const About = () => {
     const skills = [
         {
             name: "UI & UX DESIGNING",
-            image: "/src/assets/ruler-pen.png"
+            image: "/public/assets/ruler-pen.png"
         },
         {
             name: "WEB DEVELOPMENT",
-            image: "/src/assets/code.png"
+            image: "/public/src/assets/code.png"
         },
         {
             name: "MOBILE DEVELOPMENT",
-            image: "/src/assets/android.png"
+            image: "/public/src/assets/android.png"
         },
         {
             name: "RESPONSIVE DESIGNING",
-            image: "/src/assets/mobile.png"
+            image: "/public/src/assets/mobile.png"
         },
     ];
 

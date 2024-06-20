@@ -1,4 +1,4 @@
-import services from "../../public/services.js";
+import services from "/public/services.js";
 
 const Services = () => {
     return (

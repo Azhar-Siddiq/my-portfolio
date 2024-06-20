@@ -5,17 +5,17 @@ const Projects = () => {
         {
             tittle: "TWINDER",
             description: "A live geolocation app for finding tweets and twitter users around you.",
-            photo: "/src/assets/img1.png"
+            photo: "../../public/assets/img1.png"
         },
         {
             tittle: "LIVENTS",
             description: "A video streaming app with live Geaolocation, for streaming events.",
-            photo: "/src/assets/img2.png"
+            photo: "../../public/assets/img2.png"
         },
         {
             tittle: "MOOVE",
             description: "Mobile app for booking instant pickup & dropoff acrross major cities.",
-            photo: "/src/assets/img3.png"
+            photo: "../../public/assets/img3.png"
         },
     ]
     return (
